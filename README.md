@@ -1,1 +1,1 @@
-MySQL & Python completed challenges
+MySQL completed challenges
